@@ -1,0 +1,15 @@
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\net6.0\RandomNumberGenerator.exe
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\net6.0\RandomNumberGenerator.deps.json
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\net6.0\RandomNumberGenerator.runtimeconfig.json
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\net6.0\RandomNumberGenerator.dll
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\net6.0\RandomNumberGenerator.pdb
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.csproj.AssemblyReference.cache
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.AssemblyInfoInputs.cache
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.AssemblyInfo.cs
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.dll
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net6.0\refint\RandomNumberGenerator.dll
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.pdb
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net6.0\RandomNumberGenerator.genruntimeconfig.cache
+C:\Users\mmfazrin\RiderProjects\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net6.0\ref\RandomNumberGenerator.dll
