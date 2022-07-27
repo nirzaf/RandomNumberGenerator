@@ -1,4 +1,7 @@
 ﻿using System.Text;
+using static System.Convert;
+using static System.DateTime;
+using static System.Math;
 
 namespace RandomNumberGenerator;
 
@@ -10,7 +13,7 @@ public static class RandomRequestNumber
         Random random = new();
         for (int i = 0; i < 4; i++)
         {
-            var ch = Convert.ToChar(Convert.ToInt32(Math.Floor(26 * random.NextDouble() + 65)));
+            var ch = ToChar(ToInt32(Floor(26 * random.NextDouble() + 65)));
             builder.Append(ch);
         }
 
@@ -25,15 +28,15 @@ public static class RandomRequestNumber
             builder.Append(num);
         }
 
-        num = DateTime.Now.Millisecond;
+        num = Now.Millisecond;
 
         if (num % 2 == 0)
         {
-            builder.Insert(0, DateTime.Now.Second);
+            builder.Insert(0, Now.Second);
         }
         else
         {
-            builder.Append(DateTime.Now.Second);
+            builder.Append(Now.Second);
         }
 
         return builder.ToString();
